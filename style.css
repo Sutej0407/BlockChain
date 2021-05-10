@@ -49,12 +49,12 @@ body{
 #scoreBox{
     position: absolute;
     top:9px;
-    right: 200px;
+    right: 210px;
     font-size: 35px;
 }
 #hiscoreBox{
     position: absolute;
     top:50px;
-    right: 200px;
+    right: 210px;
     font-size: 35px;
 }
